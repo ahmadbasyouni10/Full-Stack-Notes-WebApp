@@ -1,0 +1,4 @@
+*.py linguist-language=Python
+git add .gitattributes
+git commit -m "Set Python as the primary language"
+git push origin master
