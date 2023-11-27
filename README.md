@@ -15,6 +15,8 @@ pip install flask-sqlalchemy
 
 ## Usage
 Clone the repository to your local machine or download zip folder
+Run main.py and press on http://127.0.0.1:5000
+![image](https://github.com/ahmadbasyouni10/Notes-Website-Python-Databases/assets/120362910/0adf9c0f-abef-4848-b3f6-6337b91426a6)
 
 ## Screenshots
 Sign Up Page
@@ -24,6 +26,7 @@ Login Page
 ![image](https://github.com/ahmadbasyouni10/Notes-Website-Python-Databases/assets/120362910/433c8558-8eac-44f7-afec-7e61085ec08a)
 
 Accessing User's Notes
+
 
 
 
