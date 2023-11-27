@@ -20,9 +20,11 @@ Run main.py and press on http://127.0.0.1:5000
 
 ## Screenshots
 Sign Up Page
+
 ![image](https://github.com/ahmadbasyouni10/Notes-Website-Python-Databases/assets/120362910/29ceeae7-7e4b-4aa3-8936-3e6559aa1548)
 
 Login Page
+
 ![image](https://github.com/ahmadbasyouni10/Notes-Website-Python-Databases/assets/120362910/433c8558-8eac-44f7-afec-7e61085ec08a)
 
 Accessing User's Notes
